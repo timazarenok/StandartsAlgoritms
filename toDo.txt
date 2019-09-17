@@ -1,0 +1,10 @@
+1. Sort
+2. BinarySearch
+3. Array.from
+4. reduce
+5. Set
+6. reverse
+7. split
+8. join
+9. slice
+10. 

@@ -1,0 +1,14 @@
+{
+  "name": "again-from-begin",
+  "version": "1.0.0",
+  "description": "ohhh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "timazarenok",
+  "license": "ISC",
+  "dependencies": {
+    "magic-square-generator": "^1.0.1"
+  }
+}
